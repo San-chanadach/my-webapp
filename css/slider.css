@@ -1,0 +1,12 @@
+.text-center {
+    margin-top: 20px;
+}
+
+.prev-card, .next-card {
+    margin: 0 10px;
+}
+
+.btn img {
+    width: 20px;
+    height: 20px;
+}
